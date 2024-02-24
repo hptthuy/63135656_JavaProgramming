@@ -1,5 +1,4 @@
 package hptthuy;
-// bài 5 : bài giảng viên cho thêm 
 
 import java.util.Scanner;
 
@@ -12,3 +11,4 @@ public class Bai5 {
 	}
 
 }
+ // giảng viên cho thêm 
